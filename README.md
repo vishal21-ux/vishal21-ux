@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const vishal = {
+static vishal = {
     name              : "Vishal R",
     role              : "Software Engineer",
     location          : "Ooty, Tamil Nadu, India",
