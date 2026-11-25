@@ -132,7 +132,7 @@
 
 - Cloud Technologies
 - Cyber Security
-- Advanced Problem Solving
+- Generative AI
 
 ---
 
