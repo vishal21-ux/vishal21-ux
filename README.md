@@ -5,7 +5,7 @@
 
 **Software Engineer | Full-Stack Developer | Generative AI**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vishal21-ux&style=flat-square&color=blue)](https://github.com/vishal21-ux)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vishal21-ux)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:vishalyaschu@gmail.com)
