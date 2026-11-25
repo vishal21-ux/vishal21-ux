@@ -130,10 +130,8 @@
 
 ## 🧠 Currently Learning
 
-- Generative AI
 - Cloud Technologies
 - Cyber Security
-- Data Structures and Algorithms
 - Advanced Problem Solving
 
 ---
