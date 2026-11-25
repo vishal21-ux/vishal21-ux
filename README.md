@@ -3,9 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=VISHAL%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=40" width="100%"/>
 
-### SOFTWARE ENGINEER
-
-**Full-Stack Developer | AI Enthusiast**
+<sub>Software Engineer | Full-Stack Developer | Generative AI</sub>
 
 Building Applications • Solving Problems • Exploring Technology
 
