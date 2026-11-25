@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-static vishal = {
+
     name              : "Vishal R",
     role              : "Software Engineer",
     location          : "Ooty, Tamil Nadu, India",
@@ -26,8 +26,8 @@ static vishal = {
     stack             : ["React.js", "Node.js", "Spring Boot", "Java", "Python", "JavaScript", "C++"],
     currentlyLearning : ["Generative AI", "Cloud", "Cyber Security"],
     openTo            : ["Internships", "Open Source", "Collaborations"],
-    leetcode          : "100+ Problems Solved 🔥"
-};
+    leetcode          : "100+ Problems Solved "
+
 ```
 
 ---
