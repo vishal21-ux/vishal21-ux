@@ -20,12 +20,12 @@ Building Applications • Solving Problems • Exploring Technology
 
 ## 🧑‍💻 About Me
 
-```javascript
+
 
 ## 🧑‍💻 About Me
 
 ```javascript
-const vishal = {
+static vishal = {
     name              : "Vishal R",
     role              : "Software Engineer",
     location          : "Ooty, Tamil Nadu, India",
