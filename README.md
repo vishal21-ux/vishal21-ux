@@ -1,64 +1,99 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B35&height=150&section=header&text=VISHAL%20R&fontSize=55&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=VISHAL%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=40" width="100%"/>
 
-### Computer Science & Engineering
+### SOFTWARE ENGINEER
 
-[![GitHub](https://img.shields.io/badge/GitHub-vishal21--ux-161B22?style=flat-square&logo=github)](https://github.com/vishal21-ux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalyaschu@gmail.com)
+**Full-Stack Developer | AI Enthusiast**
+
+Building Applications • Solving Problems • Exploring Technology
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vishal21-ux&style=flat-square&color=blue)](https://github.com/vishal21-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:vishalyaschu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a Computer Science and Engineering student at Sri Krishna College of Engineering and Technology, with a strong foundation in programming, Data Structures and Algorithms, and software development.
+```javascript
+const vishal = {
+    name: "Vishal R",
+    role: "Software Engineer",
+    location: "Ooty, Tamil Nadu, India",
 
-I enjoy building full-stack applications, exploring Artificial Intelligence, and developing efficient solutions to real-world problems.
+    degree: "BE – Computer Science & Engineering (2024–2028)",
+    college: "Sri Krishna College of Technology",
 
-- Currently strengthening my problem-solving and DSA skills.
-- Experienced in developing applications using Java and Spring Boot.
-- Interested in Full-Stack Development and Artificial Intelligence.
-- Completed hands-on software development internship experience at CodSoft.
+    stack: [
+        "React.js",
+        "Node.js",
+        "Spring Boot",
+        "Java",
+        "Python",
+        "JavaScript",
+        "C++"
+    ],
+
+    currentlyLearning: [
+        "Generative AI",
+        "Cloud",
+        "Cyber Security"
+    ],
+
+    openTo: [
+        "Internships",
+        "Open Source",
+        "Collaborations"
+    ],
+
+    leetcode: "100+ Problems Solved 🔥"
+};
+```
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frameworks & Technologies**
+### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Database & Tools**
+### Database & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Libraries & Technologies**
+### Technologies
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-412991?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6B5CE7?style=flat-square)
+- Machine Learning
+- Generative AI
+- REST API Development
+- Data Structures and Algorithms
 
 ---
 
-## Experience
+## 💼 Internship Experience
 
 ### Java Programming & Application Development Intern
 
@@ -71,31 +106,35 @@ I enjoy building full-stack applications, exploring Artificial Intelligence, and
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 01. NGO Volunteering Management System
 
-**Technologies:** Java · React · Spring Boot · MySQL
+**Tech Stack:** Java · React · Spring Boot · MySQL
 
-- Developed a full-stack platform connecting volunteers with NGOs, social initiatives and community service opportunities.
+- Developed a full-stack platform connecting volunteers with NGOs and community service opportunities.
 - Implemented volunteer registration, authentication and role-based access control.
 - Built RESTful APIs using Spring Boot.
-- Developed responsive React dashboards for managing volunteers, events, applications and notifications.
+- Developed responsive React dashboards for volunteer and event management.
 - Integrated MySQL for structured data management.
+
+**[View Project](https://github.com/vishal21-ux/-NGO-Volunteering-Platform)**
 
 ### 02. Phishing Detector
 
-**Technologies:** Python · Machine Learning · NLP
+**Tech Stack:** Python · Machine Learning · NLP
 
 - Developed an AI-powered cybersecurity application to detect phishing and scam messages.
-- Implemented an ensemble of Naive Bayes, SVM and Random Forest models.
+- Implemented Naive Bayes, SVM and Random Forest models.
 - Used TF-IDF vectorization for text analysis.
-- Implemented NLP-based threat signal extraction, including suspicious URLs, urgency language and money-related keywords.
-- Developed dynamic risk scoring and majority voting for final predictions.
+- Implemented NLP-based threat signal extraction.
+- Developed dynamic risk scoring and majority voting for predictions.
+
+**[View Project](https://github.com/vishal21-ux/-phishing-detector)**
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | Certification | Organization |
 |---|---|
@@ -108,18 +147,40 @@ I enjoy building full-stack applications, exploring Artificial Intelligence, and
 
 ---
 
-## Education
+## 🎓 Education
 
-| Qualification | Institution | Year |
-|---|---|---|
-| B.E. Computer Science and Engineering | Sri Krishna College of Engineering and Technology, Coimbatore | 2024 – 2028 |
-| Higher Secondary – HSC | Unique Public Higher Secondary Matriculation School, Ooty | 2024 |
-
-**CGPA:** 7.8 / 10
+| Qualification | Institution | Year | Score |
+|---|---|---|---|
+| B.E. Computer Science & Engineering | Sri Krishna College of Technology, Coimbatore | 2024–2028 | 7.8 CGPA |
+| Higher Secondary (HSC) | Unique Public Matriculation Higher Secondary School, Ooty | 2024 | 78.9% |
 
 ---
 
-## GitHub Statistics
+## 🧠 Currently Learning
+
+- Generative AI
+- Cloud Technologies
+- Cyber Security
+- Data Structures and Algorithms
+- Advanced Problem Solving
+
+---
+
+## 💻 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/vishal___R/">
+
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -135,22 +196,38 @@ I enjoy building full-stack applications, exploring Artificial Intelligence, and
 
 ---
 
-## Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github)](https://github.com/vishal21-ux)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
-
-[![Email](https://img.shields.io/badge/Email-vishalyaschu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalyaschu@gmail.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal21-ux&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
+---
+
+## 📬 Connect With Me
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B35&height=70&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vishal21-ux)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalyaschu@gmail.com)
+
+**Email:** vishalyaschu@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting my profile!*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=footer" width="100%"/>
 
 </div>
