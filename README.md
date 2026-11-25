@@ -1,18 +1,14 @@
 
 <div align="center">
 
-# Hi, I'm Vishal 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B35&height=150&section=header&text=VISHAL%20R&fontSize=55&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-### Software Developer | Full-Stack Development | AI Enthusiast
+### Computer Science & Engineering
 
-Building projects, solving problems, and continuously learning new technologies.
-
-<a href="https://github.com/vishal21-ux">
-  <img src="https://img.shields.io/badge/GitHub-vishal21--ux-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vishalr11/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-vishal21--ux-161B22?style=flat-square&logo=github)](https://github.com/vishal21-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalyaschu@gmail.com)
 
 </div>
 
@@ -20,68 +16,106 @@ Building projects, solving problems, and continuously learning new technologies.
 
 ## About Me
 
-- Computer Science Engineering student.
-- Passionate about software development and building practical applications.
+I am a Computer Science and Engineering student at Sri Krishna College of Engineering and Technology, with a strong foundation in programming, Data Structures and Algorithms, and software development.
+
+I enjoy building full-stack applications, exploring Artificial Intelligence, and developing efficient solutions to real-world problems.
+
+- Currently strengthening my problem-solving and DSA skills.
+- Experienced in developing applications using Java and Spring Boot.
 - Interested in Full-Stack Development and Artificial Intelligence.
-- Continuously improving my programming and problem-solving skills.
-- Exploring new technologies and developing real-world solutions.
-- Actively preparing for software development opportunities.
+- Completed hands-on software development internship experience at CodSoft.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
-</p>
+**Programming Languages**
 
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi"/>
-</p>
+**Frameworks & Technologies**
 
-### Database & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,maven"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Libraries & Technologies**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-412991?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6B5CE7?style=flat-square)
+
+---
+
+## Experience
+
+### Java Programming & Application Development Intern
+
+**CodSoft | 2026**
+
+- Applied Core Java and Object-Oriented Programming concepts in practical programming tasks.
+- Developed Java-based applications by implementing programming logic and application functionality.
+- Worked with classes, objects, methods, arrays and exception handling.
+- Strengthened debugging and problem-solving skills through hands-on assignments.
 
 ---
 
 ## Featured Projects
 
-### 1. Smart Price Comparator
-A web application focused on comparing product prices to help users make informed purchasing decisions.
+### 01. NGO Volunteering Management System
 
-**Technology:** JavaScript
+**Technologies:** Java · React · Spring Boot · MySQL
 
-[View Project](https://github.com/vishal21-ux/smartprice-comparator)
+- Developed a full-stack platform connecting volunteers with NGOs, social initiatives and community service opportunities.
+- Implemented volunteer registration, authentication and role-based access control.
+- Built RESTful APIs using Spring Boot.
+- Developed responsive React dashboards for managing volunteers, events, applications and notifications.
+- Integrated MySQL for structured data management.
 
-### 2. AI-Powered Phishing Detector
-A security-focused project designed to identify potential phishing and fraudulent activities.
+### 02. Phishing Detector
 
-**Technology:** Python
+**Technologies:** Python · Machine Learning · NLP
 
-[View Project](https://github.com/vishal21-ux/-phishing-detector)
+- Developed an AI-powered cybersecurity application to detect phishing and scam messages.
+- Implemented an ensemble of Naive Bayes, SVM and Random Forest models.
+- Used TF-IDF vectorization for text analysis.
+- Implemented NLP-based threat signal extraction, including suspicious URLs, urgency language and money-related keywords.
+- Developed dynamic risk scoring and majority voting for final predictions.
 
-### 3. NGO Volunteering Platform
-A platform connecting volunteers with NGOs to encourage social participation and volunteering.
+---
 
-**Technology:** Java
+## Certifications
 
-[View Project](https://github.com/vishal21-ux/-NGO-Volunteering-Platform)
+| Certification | Organization |
+|---|---|
+| Introduction to Artificial Intelligence | Infosys Springboard |
+| Data Structures and Algorithms | Infosys Springboard |
+| Generative AI for Data Analysis | Microsoft |
+| Google Cybersecurity | Google |
+| Data Analytics | Google |
+| Python for Data Science | NPTEL |
 
-### 4. AI Growth Agentic Commerce
-An AI-focused project exploring agentic commerce solutions.
+---
 
-**Technology:** JavaScript
+## Education
 
-[View Project](https://github.com/vishal21-ux/AI-Growth-Agentic-Commerce)
+| Qualification | Institution | Year |
+|---|---|---|
+| B.E. Computer Science and Engineering | Sri Krishna College of Engineering and Technology, Coimbatore | 2024 – 2028 |
+| Higher Secondary – HSC | Unique Public Higher Secondary Matriculation School, Ooty | 2024 |
+
+**CGPA:** 7.8 / 10
 
 ---
 
@@ -93,6 +127,10 @@ An AI-focused project exploring agentic commerce solutions.
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal21-ux&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vishal21-ux&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -101,26 +139,18 @@ An AI-focused project exploring agentic commerce solutions.
 
 <div align="center">
 
-<a href="https://github.com/vishal21-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github)](https://github.com/vishal21-ux)
 
-<a href="https://www.linkedin.com/in/vishalr11/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
 
-<a href="mailto:vishalyaschu@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
 
-**Email:** vishalyaschu@gmail.com
+[![Email](https://img.shields.io/badge/Email-vishalyaschu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalyaschu@gmail.com)
 
 </div>
 
----
-
 <div align="center">
 
-### "Learning continuously. Building consistently. Growing every day."
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B35&height=70&section=footer" width="100%"/>
 
 </div>
