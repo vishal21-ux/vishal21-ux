@@ -1,18 +1,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=VISHAL%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:263B5A,50:344F78,100:48658C&height=150&section=header&text=VISHAL%20R&fontSize=55&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-<sub>Software Engineer | Full-Stack Developer | Generative AI</sub>
-
-Building Applications • Solving Problems • Exploring Technology
-
-<br/>
+**Software Engineer | Full-Stack Developer | Generative AI**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishal21-ux&style=flat-square&color=blue)](https://github.com/vishal21-ux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:vishalyaschu@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vishal21-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishalr11/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:vishalyaschu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal___R/)
 
 </div>
 
@@ -20,12 +17,8 @@ Building Applications • Solving Problems • Exploring Technology
 
 ## 🧑‍💻 About Me
 
-
-
-## 🧑‍💻 About Me
-
 ```javascript
-static vishal = {
+const vishal = {
     name              : "Vishal R",
     role              : "Software Engineer",
     location          : "Ooty, Tamil Nadu, India",
@@ -36,7 +29,6 @@ static vishal = {
     openTo            : ["Internships", "Open Source", "Collaborations"],
     leetcode          : "100+ Problems Solved 🔥"
 };
-```
 ```
 
 ---
@@ -100,7 +92,7 @@ static vishal = {
 - Developed responsive React dashboards for volunteer and event management.
 - Integrated MySQL for structured data management.
 
-**[View Project](https://github.com/vishal21-ux/-NGO-Volunteering-Platform)**
+[View Project →](https://github.com/vishal21-ux/-NGO-Volunteering-Platform)
 
 ### 02. Phishing Detector
 
@@ -112,7 +104,7 @@ static vishal = {
 - Implemented NLP-based threat signal extraction.
 - Developed dynamic risk scoring and majority voting for predictions.
 
-**[View Project](https://github.com/vishal21-ux/-phishing-detector)**
+[View Project →](https://github.com/vishal21-ux/-phishing-detector)
 
 ---
 
@@ -134,7 +126,7 @@ static vishal = {
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science & Engineering | Sri Krishna College of Technology, Coimbatore | 2024–2028 | 7.8 CGPA |
-| Higher Secondary (HSC) | Unique Public Matriculation Higher Secondary School, Ooty | 2024 | 78.9% |
+| Higher Secondary (HSC) | Unique Public Higher Secondary Matriculation School, Ooty | 2024 | 78.9% |
 
 ---
 
@@ -210,6 +202,6 @@ static vishal = {
 
 *Thanks for visiting my profile!*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:263B5A,50:344F78,100:48658C&height=65&section=footer" width="100%"/>
 
 </div>
