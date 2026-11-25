@@ -21,38 +21,22 @@ Building Applications • Solving Problems • Exploring Technology
 ## 🧑‍💻 About Me
 
 ```javascript
+
+## 🧑‍💻 About Me
+
+```javascript
 const vishal = {
-    name: "Vishal R",
-    role: "Software Engineer",
-    location: "Ooty, Tamil Nadu, India",
-
-    degree: "BE – Computer Science & Engineering (2024–2028)",
-    college: "Sri Krishna College of Technology",
-
-    stack: [
-        "React.js",
-        "Node.js",
-        "Spring Boot",
-        "Java",
-        "Python",
-        "JavaScript",
-        "C++"
-    ],
-
-    currentlyLearning: [
-        "Generative AI",
-        "Cloud",
-        "Cyber Security"
-    ],
-
-    openTo: [
-        "Internships",
-        "Open Source",
-        "Collaborations"
-    ],
-
-    leetcode: "100+ Problems Solved 🔥"
+    name              : "Vishal R",
+    role              : "Software Engineer",
+    location          : "Ooty, Tamil Nadu, India",
+    degree            : "BE – Computer Science & Engineering [2024–2028]",
+    college           : "Sri Krishna College of Technology",
+    stack             : ["React.js", "Node.js", "Spring Boot", "Java", "Python", "JavaScript", "C++"],
+    currentlyLearning : ["Generative AI", "Cloud", "Cyber Security"],
+    openTo            : ["Internships", "Open Source", "Collaborations"],
+    leetcode          : "100+ Problems Solved 🔥"
 };
+```
 ```
 
 ---
